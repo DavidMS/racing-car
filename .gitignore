@@ -1,0 +1,15 @@
+target/
+
+# Eclipse
+bin/
+.settings/
+.project
+.classpath
+.checkstyle
+
+# IDEA
+.idea
+*.iml
+
+# MAC
+.DS_Store
